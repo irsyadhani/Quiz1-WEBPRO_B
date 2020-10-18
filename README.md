@@ -9,4 +9,7 @@ Making biodata website (including homepage, profile page, hometown page, food pa
 ## How To Run
 ● Run Apache on XAMPP or another app
 
-● Write on your URL: localhost/pweb-quiz1/
+● Write on your URL: http://localhost/pweb-quiz1/
+
+## My Website
+● Write on your website URL: http://irsyadhani22.000webhostapp.com/
